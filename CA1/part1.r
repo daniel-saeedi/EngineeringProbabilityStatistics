@@ -33,7 +33,7 @@ diffVector <- c()
 
 for (i in 1:length(elements$Exam2))
 {
-	diffVector[i] = (elements$Exam1[i] - elements$Exam2[i])
+	diffVector[i] = (elements$Exam2[i] - elements$Exam1[i])
 }
 
 boxplot(diffVector);

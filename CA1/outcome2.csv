@@ -1,0 +1,15 @@
+age,workclass,education,martial-status,occupation,relationship,race,sex,native-country,income
+39, State-gov, Bachelors, Never-married, Adm-clerical, Not-in-family, White, Male, United-States, <=50K
+50, Self-emp-not-inc, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male, United-States, <=50K
+38, Private, HS-grad, Divorced, Handlers-cleaners, Not-in-family, White, Male, United-States, <=50K
+53, Private, 11th, Married-civ-spouse, Handlers-cleaners, Husband, Black, Male, United-States, <=50K
+28, Private, Bachelors, Married-civ-spouse, Prof-specialty, Wife, Black, Female, Cuba, <=50K
+37, Private, Masters, Married-civ-spouse, Exec-managerial, Wife, White, Female, United-States, <=50K
+49, Private, 9th, Married-spouse-absent, Other-service, Not-in-family, Black, Female, Jamaica, <=50K
+52, Self-emp-not-inc, HS-grad, Married-civ-spouse, Exec-managerial, Husband, White, Male, United-States, >50K
+31, Private, Masters, Never-married, Prof-specialty, Not-in-family, White, Female, United-States, >50K
+42, Private, Bachelors, Married-civ-spouse, Exec-managerial, Husband, White, Male, United-States, >50K
+37, Private, Some-college, Married-civ-spouse, Exec-managerial, Husband, Black, Male, United-States, >50K
+30, State-gov, Bachelors, Married-civ-spouse, Prof-specialty, Husband, Asian-Pac-Islander, Male, India, >50K
+23, Private, Bachelors, Never-married, Adm-clerical, Own-child, White, Female, United-States, <=50K
+32, Private, Assoc-acdm, Never-married, Sales, Not-in-family, Black, Male, United-States, <=50K
